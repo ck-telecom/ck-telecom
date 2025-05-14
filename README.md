@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ck-telecom
+- 👋 Hi, I’m Jandy
 - 👀 I’m interested in Zephyr
 - 🌱 I’m currently learning Zephyr
 - 💞️ I’m looking to collaborate on Zephyr
